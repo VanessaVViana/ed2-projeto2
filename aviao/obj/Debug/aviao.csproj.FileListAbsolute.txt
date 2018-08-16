@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.pdb
